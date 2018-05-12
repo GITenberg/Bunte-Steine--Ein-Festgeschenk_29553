@@ -1,0 +1,31 @@
+_repo: Bunte-Steine--Ein-Festgeschenk_29553
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stifter, Adalbert
+    alias: Stifter, A. (Adalbert)
+    birthdate: 1805
+    deathdate: 1868
+    gutenberg_agent_id: '2329'
+    url: http://www.gutenberg.org/2009/agents/2329
+    wikipedia: http://en.wikipedia.org/wiki/Adalbert_Stifter
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2009-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29553'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German'
+- !lcc 'PT'
+tableOfContents: Granit -- Kalkstein -- Turmalin -- Bergkristall -- Katzensilber --
+  Bergmilch.
+title: 'Bunte Steine: Ein Festgeschenk'
+url: http://www.gutenberg.org/ebooks/29553
